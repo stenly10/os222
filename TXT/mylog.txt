@@ -2,3 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00 50 L02 ZOOM meetings related
+ZCZC W00 100 L73 Gaming including Board Games.
+ZCZC W00 50 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 100 L80 Waching: Movie, YouTube, TV, Netflix, etc.
