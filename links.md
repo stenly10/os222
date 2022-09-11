@@ -19,5 +19,6 @@ The video is short but useful for beginners.
 
 <br>
 <hr>
+{{ site.author }}.
 <hr>
 <br>
