@@ -14,7 +14,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://youtu.be/CpTfQ-q6MPU)<br>
+1. [10 Linux Terminal Commands for Beginners](https://youtu.be/CpTfQ-q6MPU)<br>
 Link untuk mempelajari basic linux commands.
 Pembelajaran yang jelas dan singkat mengenai linux commands untuk pemula.
 
