@@ -19,6 +19,5 @@ The video is short but useful for beginners.
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
