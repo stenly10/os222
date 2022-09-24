@@ -19,6 +19,9 @@ The video is short but useful for beginners.
 This is a link to a video about vim basics.
 This video contains simple explanation about how to use vim.
 
+3. [How to Use Regular Expressions (RegEx) on Linux](https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/)<br>
+This is a link to a website about how to use regex on Linux. The website contains explanations for some basic regex.
+
 <br>
 <hr>
 {{ site.author }}.
