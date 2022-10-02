@@ -22,6 +22,8 @@ This video contains simple explanation about how to use vim.
 3. [How to Use Regular Expressions (RegEx) on Linux](https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/)<br>
 This is a link to a website about how to use regex on Linux. The website contains explanations for some basic regex.
 
+4. [C Tutorial](https://www.w3schools.com/c/index.php)<br>
+This is a link to a website for learn C language. You can learn about C syntax, C pointers, and many other things.
 <br>
 <hr>
 {{ site.author }}.
