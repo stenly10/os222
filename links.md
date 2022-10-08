@@ -25,8 +25,8 @@ This is a link to a website about how to use regex on Linux. The website contain
 4. [C Tutorial](https://www.w3schools.com/c/index.php)<br>
 This is a link to a website for learn C language. You can learn about C syntax, C pointers, and many other things.
 
-5. [big-endian and little-endian](https://www.techtarget.com/searchnetworking/definition/big-endian-and-little-endian#:~:text=Big%2Dendian%20is%20an%20order,the%20sequence)%20is%20stored%20first.)<br>
-This is a link to a website about big-endian and little-endian. You can learn about the difference between big endian and little endian and their uses.
+5. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+This is a link to a website about big-endian and little-endian. You can learn about the difference between big endian and little endian.
 
 <br>
 <hr>
