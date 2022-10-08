@@ -26,3 +26,10 @@ ZCZC W04 10 L12 Assignment #02
 ZCZC W04 15 L13 Assignment #03
 ZCZC W04 120 L73 Gaming including Board Games.
 ZCZC W04 50 L70 Studying for other courses.
+ZCZC W05 20 L11 Assignment #01
+ZCZC W05 15 L12 Assignment #02
+ZCZC W05 10 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 120 L73 Gaming including Board Games.
+ZCZC W05 100 L81 Listening: Radio, Music, etc.
