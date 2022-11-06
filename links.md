@@ -28,6 +28,9 @@ This is a link to a website for learn C language. You can learn about C syntax, 
 5. [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
 This is a link to a website about big-endian and little-endian. You can learn about the difference between big endian and little endian.
 
+6. [Process Vs. Thread | Difference Between Process and Thread](https://www.javatpoint.com/process-vs-thread#:~:text=Thread-,A%20process%20is%20an%20instance%20of%20a%20program%20that%20is,are%20interdependent%20and%20share%20memory.)<br>
+This is a link to a web page about process and thread. You can learn about the difference between process and thread.
+
 <br>
 <hr>
 {{ site.author }}.
