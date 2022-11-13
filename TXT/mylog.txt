@@ -38,3 +38,8 @@ ZCZC W06 10 L12 Assignment #02
 ZCZC W06 10 L13 Assignment #03
 ZCZC W06 25 L14 Assignment #04
 ZCZC W06 120 L73 Gaming including Board Games.
+ZCZC W07 20 L11 Assignment #01
+ZCZC W07 10 L12 Assignment #02
+ZCZC W07 20 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 120 L73 Gaming including Board Games.

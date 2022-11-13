@@ -31,6 +31,9 @@ This is a link to a website about big-endian and little-endian. You can learn ab
 6. [Process Vs. Thread | Difference Between Process and Thread](https://www.javatpoint.com/process-vs-thread#:~:text=Thread-,A%20process%20is%20an%20instance%20of%20a%20program%20that%20is,are%20interdependent%20and%20share%20memory.)<br>
 This is a link to a web page about process and thread. You can learn about the difference between process and thread.
 
+7. [A Brief Introduction to Race Conditions](https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch03s07.html)
+This is a link to a web page about race condition. You can learn about race condition situation.
+
 <br>
 <hr>
 {{ site.author }}.
