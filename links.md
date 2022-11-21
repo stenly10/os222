@@ -34,6 +34,9 @@ This is a link to a web page about process and thread. You can learn about the d
 7. [A Brief Introduction to Race Conditions](https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch03s07.html)
 This is a link to a web page about race condition. You can learn about race condition situation.
 
+8. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/#:~:text=What%20is%20a%20Fork()%3F,also%20kills%20the%20child%20process.)<br>
+This is a link to a web page about fork method in C programming language. You can learn about fork method and the return value of fork method.
+
 <br>
 <hr>
 {{ site.author }}.
